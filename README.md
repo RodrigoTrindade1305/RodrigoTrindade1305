@@ -49,9 +49,19 @@
 
 ###
 
+<hr>
+
+
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RodrigoTrindade1305&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTrindade1305&layout=compact&theme=tokyonight" />
+  <img
+    height="150em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoTrindade1305&show_icons=true&theme=tokyonight"
+  />
+  <img width="20" />
+  <img
+    height="150em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoTrindade1305&layout=donut&theme=tokyonight"
+  />
 </div>
 
 ###
