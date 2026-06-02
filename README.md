@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Rodrigo, tenho 19 anos, sou de São Paulo - Brasil, estou me formando em Tecnologia de Análise e Desenvolvimento de Sistemas e tenho me especializado em JAVA, estou em busca do meu primeiro emprego na área de TI, sempre aprendendo cada dia mais e em busca da evolução!! 📚✨</p>
+<p align="left">Olá, meu nome é Rodrigo, tenho 20 anos, sou de São Paulo - Brasil, estou me formando em Tecnologia de Análise e Desenvolvimento de Sistemas e tenho me especializado em JAVA, estou em busca do meu primeiro emprego na área de TI, sempre aprendendo cada dia mais e em busca da evolução!! 📚✨</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudando programação desde 2025.<br><br>📚 Atualmente aprendendo Java 8/11/25+ / Spring Boot / MySQL.<br><br>🎯 Objetivos: Conseguir um emprego na área e me especializar ainda em Java, frameworks, banco de dados e Back - End.</p>
+<p align="left">✨ Estudando programação desde 2025.<br><br>📚 Atualmente aprendendo Java 8/11/25+ / Spring Boot / MySQL.<br><br>🎯 Objetivos: Conseguir um emprego na área e me especializar ainda mais em Java, frameworks, banco de dados e Back - End.</p>
 
 ###
 
