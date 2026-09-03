@@ -32,9 +32,12 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
+<hr>
+
 ###
 
 <h2 align="left">📫 Contato:</h2>
+
 
 ###
 
